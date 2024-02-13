@@ -25,8 +25,10 @@ Data were retrieved from provided CSV files with ticker symbols and correspondin
 ## Analysis Workflow
 **Data Collection:**  Compiled financial and stock return data corresponding to provided ticker symbols for the crash periods.
 
-**Data Cleaning:** Processed and prepared the datasets for analysis, ensuring accuracy and consistency.
-Risk Exposure Determination: Analyzed the stocks' sensitivities to market-wide risk factors.
+**Data Cleaning:** Processed and prepared the datasets for analysis, ensuring accuracy and consistency. Then employing machine learning techniques and statistical methods to predict the results.
+
+
+**Risk Exposure Determination:** Analyzed the stocks' sensitivities to market-wide risk factors.
 
 **Financial Ratio Calculation:** Computed key financial ratios to assess the financial health and performance of companies.
 
